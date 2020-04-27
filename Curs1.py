@@ -1,0 +1,1 @@
+print("primul meu string")
