@@ -1,4 +1,4 @@
-# 1980423410020
+
 cnp = input("Introduceti un CNP:")
 s = 0
 for x in cnp:
